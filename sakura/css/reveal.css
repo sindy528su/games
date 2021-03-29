@@ -1,0 +1,183 @@
+@import url('reset.css');
+
+/*	--------------------------------------------------
+	Reveal Modals
+	-------------------------------------------------- */
+body {
+	background-color:#FFF;
+	background-image: url(../images/bg.jpg);
+	background-position: center top;
+	}
+
+
+/*跳出底圖*/		
+	.reveal-modal-bg { 
+		position: fixed; 
+		height: 100%;
+		width: 100%;	
+		z-index: 100;
+		display: none;
+		top: 0;
+		left: 0;		
+	    background: rgba(0,0,0,.8);
+		background:url(../images/window/w_bg.png);
+	    }
+/*中間畫面*/	
+	.reveal-modal {		
+		visibility: hidden;
+		left: 50%;
+		margin-left: -500px;
+		width: 789px;
+		height:647px;
+		background: #fff ;
+		position: absolute;
+		z-index: 101;
+		background:url(../images/window/w_box.png) no-repeat center top ;
+		margin: 0 auto;
+        position: absolute;
+        top: 1px; left: 0; bottom: 0; right: 0;
+		background-position:bottom;
+		}
+		
+/*人物*/		
+	.reveal-modal .npc_01{
+		width:704px;
+		height:600px;
+		margin:0 0 0 72px;		
+		background:url(../images/window/m_npc_01.png) no-repeat center top ;
+		}
+			
+	.reveal-modal .npc_02{
+		width:704px;
+		height:600px;
+		margin:0 0 0 72px;		
+		background:url(../images/window/m_npc_02.png) no-repeat center top ;
+		}
+		
+		
+		
+	.reveal-modal .npc_03{
+		width:704px;
+		height:600px;
+		margin:0 0 0 72px;		
+		background:url(../images/window/m_npc_03.png) no-repeat center top ;
+		}
+		
+	.reveal-modal .npc_04{
+		width:704px;
+		height:600px;
+		margin:0 0 0 72px;	
+		background:url(../images/window/m_npc_04.png) no-repeat center top ;
+		}
+		
+	.reveal-modal .npc_05{
+		width:704px;
+		height:600px;
+		margin:0 0 0 72px;	
+		background:url(../images/window/m_npc_05.png) no-repeat center top ;
+		}
+		
+    /*內文*/	
+	.reveal-modal .reveal-content{
+		width:560px;
+		height:60px;
+		margin:225px 0 0 50px;
+	}
+	
+	
+	.reveal-content h3{
+		margin:-17px 0 0 594px;
+    	}
+		
+	.reveal-content h4{
+		margin:0 0 10px 0;
+		}		
+		
+	.reveal-content h5{
+		width:70px;
+		font-family: "微軟正黑體";
+     	font-size:38px;
+	    line-height: 20px;
+	    color:#FFF;
+		float:right;
+		float:left;
+		text-align:center;
+		}	
+	.reveal-content h6{
+		width:460px;
+		margin:5px 0 0 0;	
+		font-family: "微軟正黑體";
+     	font-size: 13px;
+	    line-height: 20px;
+		letter-spacing:1px;
+	    color:#FFF;
+		font-weight:normal;
+		float:right;
+		}
+		
+
+/*個人資料*/		
+	.reveal-modal .npc_01 h1{
+		padding:38px 0 0 440px;
+			}
+
+	.reveal-modal .npc_02 h1{
+		padding:36px 0 0 450px;
+			}
+		
+	.reveal-modal .npc_03 h1{
+		padding:36px 0 0 0;
+		margin-left:-70px;
+			}
+			
+	.reveal-modal .npc_04 h1{
+		padding:35px 0 0 440px;
+			}
+			
+	.reveal-modal .npc_05 h1{
+		padding:40px 0 0 0;
+		margin-left:-80px;
+			}
+			
+/*關閉鈕*/
+	.reveal-modal .copyright {
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		cursor: pointer;
+		} 
+		
+/*	--------------------------------------------------
+	影片
+	-------------------------------------------------- */
+
+	.reveal-modal .npc_06{
+		text-align:center;
+		}
+		
+	.reveal-modal .movie{
+		margin:20px 0 0 92px;	
+		}
+		
+		
+/*	--------------------------------------------------
+	所有文字
+	-------------------------------------------------- */
+	
+.font_01 {
+    	font-family: "微軟正黑體";
+     	font-size: 14px;
+		letter-spacing:1px;
+	    color:#fd0946;
+		font-weight:bold;
+		} 
+		
+.font_02 {
+	font-family: "微軟正黑體";
+	font-size: 12px;
+	letter-spacing:1px;
+	color:#000000;
+	font-weight:bold;
+		} 
+		
+		

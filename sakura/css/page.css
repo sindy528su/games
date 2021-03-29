@@ -1,0 +1,428 @@
+@import url('reset.css');
+
+* {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+/*全螢幕寬度*/
+#layerslider {
+	width: 100%;
+	height: 750px;
+	margin: 0px auto ;
+}
+
+
+
+/* ========================================================
+   單元ㄧ*
+   ===================================================== */
+
+/*人物圖*/
+#leaf3 {
+	left: 850px;
+	top: 0;
+}
+
+/*個人介紹選單*/
+#l5text1 {
+	left: 1300px;
+	top: 120px;
+	z-index:15;
+}
+
+/*小內文*/
+#ls-text1{
+	left: 490px;
+	top: 550px;
+}
+
+/*logo*/
+#leaf1_1 {
+	left: 487px;
+	top: 40px;
+}
+
+/*大標*/
+#ls_ti1 {
+	left: 460px;
+	top: 180px;
+}
+
+/*櫻花前景*/
+#ls1_pic1 {
+	left: 900px;
+	top: 0;
+}
+
+/*櫻花*/
+#ls1_pic2  {
+	left: 190px;
+	top: 20px;
+}
+
+/*櫻花前景*/
+#ls1_pic3 {
+	left: 1600px;
+	top: 300px;
+}
+/* ========================================================
+   單元二*
+   ===================================================== */
+
+/*人物圖*/
+#leaf4 {
+	left: 700px;
+	top: 0;
+}
+
+/*個人介紹選單*/
+#l5text2 {
+	left: 1330px;
+	top: 250px;	
+	z-index:15;
+}
+
+/*小內文*/
+#ls-text2{
+	left: 490px;
+	top: 550px;
+}
+
+/*logo*/
+#leaf1_2 {
+	left: 487px;
+	top: 40px;
+}
+
+/*大標*/
+#ls_ti2 {
+	left: 460px;
+	top: 180px;
+}
+
+/*落葉前景*/
+#ls2_pic1 {
+	left: 1450px;
+	top: 600px;
+}
+
+/*落葉*/
+#ls2_pic2  {
+	left: 0;
+	top: 0;
+}
+
+/*落葉*/
+#ls2_pic3 {
+	left: 1500px;
+	top: 200px;
+}
+
+/* ========================================================
+   單元三*
+   ===================================================== */
+
+/*人物圖*/
+#leaf5 {
+	left:830px;
+	top: 0;
+}
+
+
+/*個人介紹選單*/
+#l5text3 {
+	left: 1310px;
+	top: 300px;
+	z-index:15;
+}
+
+/*小內文*/
+#ls-text3{
+	left: 490px;
+	top: 550px;
+}
+
+/*logo*/
+#leaf1_3 {
+	left: 487px;
+	top: 40px;
+}
+
+/*大標*/
+#ls_ti3 {
+	left: 460px;
+	top: 180px;
+}
+
+/*桌子*/
+#ls3_pic1 {
+	left: 1050px;
+	top: 460px;
+}
+
+/*光芒*/
+#ls3_pic2  {
+	left: 0;
+	top: 0;
+}
+
+/* ========================================================
+   單元四*
+   ===================================================== */
+
+/*人物圖*/
+#leaf6 {
+	left:950px;
+	top: 0;
+}
+
+/*個人介紹選單*/
+#l5text4 {
+	left: 1250px;
+	top: 150px;
+	z-index:15;
+}
+
+/*小內文*/
+#ls-text4{
+	left: 490px;
+	top: 550px;
+}
+
+/*logo*/
+#leaf1_4 {
+	left: 487px;
+	top: 40px;
+}
+
+/*大標*/
+#ls_ti4 {
+	left: 460px;
+	top: 180px;
+}
+
+/*泡泡*/
+#ls4_pic1 {
+	left: 1350px;
+	top: 80px;
+}
+
+#ls4_pic2  {
+	left: 0;
+	top: 80px;
+}
+
+
+/* ========================================================
+   單元五*
+   ===================================================== */
+
+/*人物圖*/
+#leaf7 {
+	left:820px;
+	top: 0;
+}
+
+/*個人介紹選單*/
+#l5text5 {
+	left: 1300px;
+	top: 80px;
+	z-index:15;
+}
+
+/*小內文*/
+#ls-text5{
+	left: 490px;
+	top: 550px;
+}
+
+/*logo*/
+#leaf1_5 {
+	left: 487px;
+	top: 40px;
+}
+
+/*大標*/
+#ls_ti5 {
+	left: 460px;
+	top: 180px;
+}
+
+/*閃光*/
+#ls5_pic1 {
+	left: 50px;
+	top: 0;
+}
+
+#ls5_pic2  {
+	left: 1380px;
+	top: 80px;
+}
+
+/*石像*/
+#ls5_pic3 {
+	left: 1700px;
+	top: 80px;
+}
+
+
+/*背景動態*/
+
+#l5text6 {
+	left:600px;
+	top: -50px;
+
+}
+
+#l5text7 {
+	left:600px;
+	top: -50px;
+}
+
+#l5text8 {
+	left:600px;
+	top: -50px;
+}
+
+#l5text9 {
+	left:600px;
+	top: -50px;
+}
+
+#l5text10 {
+	left:600px;
+	top: -50px;
+}
+
+
+/*banner*/
+
+#l5text11 {
+	left: 50px;
+	top: 435px;
+}
+
+#l5text12 {
+	left: 50px;
+	top: 435px;
+}
+
+#l5text13 {
+	left: 50px;
+	top: 435px;
+}
+
+#l5text14 {
+	left: 30px;
+	top: 470px;
+	position: absolute;
+	z-index:10;
+}
+
+#l5text15{
+	left:450px;
+	top: 260px;
+	z-index:10;
+	position: absolute;
+}
+
+/* banner*/
+#banner{
+	left:450px;
+	top: 260px;
+	z-index:10;
+	position: absolute;
+}
+
+
+/* 視差動態*/
+.ls-layer {
+
+	display: none;
+	margin-bottom:0 auto;
+	background-color:#FCF;
+}
+
+.ls-active,
+.ls-animating {
+	display: block;
+}
+
+/*視差動態畫面*/
+.ls-layer > * {
+	
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+/*視差動態畫面底圖*/
+.ls-layer .ls-bg {
+	left: 50%;
+	top: 50%;
+	background-position: 50% 0%;
+	background-position:center top;
+}
+
+/* ========================================================
+   首頁大banner
+   ===================================================== */
+	#bbnr{
+	width: 424px;
+	height: 239px;
+	background-image: url(../images/kv/bg.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding: 23px 0 0 49px;	
+	}
+	
+	#abgneBlock {
+	width: 378px;
+	height: 250px;
+	position: absolute;
+	overflow: hidden;
+	z-index:10;
+	}
+	#abgneBlock ul.list {
+		padding:0;
+		margin: 0;
+		list-style: none;
+		position: absolute;
+		width: 9999px;
+		height: 250px;
+	}
+	#abgneBlock ul.list li {
+		float: left;
+		width: 378px;
+		height: 250px;
+	}
+	#abgneBlock .list img{
+		width: 378px;
+		border: 0;
+	}
+	#abgneBlock ul.playerControl {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		position: absolute;
+		bottom: -4px;
+		right: 5px;
+		height: 16px;
+	}
+	#abgneBlock ul.playerControl li {
+		float: left;
+		width: 11px;
+		height: 12px;
+		cursor: pointer;
+		margin: 0px 3px;
+		background: url(../images/kv/cir_ctrl.png) no-repeat -11px 0;
+	}
+	#abgneBlock ul.playerControl li.current { 
+		background-position: 0 0;
+	}
+	
+
